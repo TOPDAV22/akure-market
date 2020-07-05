@@ -1,0 +1,19 @@
+body{
+    margin: 0 !important;
+  }
+  
+  .custom-button{
+    background-color: #043297;
+    color: white;
+    border-radius: 2rem;
+    outline: none;
+    min-width: 4rem;
+    height: 2rem;
+  }
+  
+  .custom-button:active{
+    background-color: #043297CC;
+    color: white;
+    outline: none;
+  }
+  
